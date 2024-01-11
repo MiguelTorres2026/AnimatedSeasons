@@ -7,10 +7,7 @@
 h2{
     font-family: 'Bungee Spice', sans-serif;
 }
-.winter-text {
-    font-family: 'Kanit', sans-serif;
-    background: #ffffff;
-}
+
 section{
     position: relative;
     width: 100%;
@@ -121,5 +118,22 @@ section .set div:nth-child(8){
 
 .winter{
     background: radial-gradient(#ffffff, #baf7ff);
-    
+
+}
+
+.winter h2{
+    font-family: 'Rubik Burned', system-ui;
+}
+
+.spring{
+    background: radial-gradient(#ffefa7, #ffd61f)
+}
+
+.spring h2{
+    font-family: 'Gloria Hallelujah' , cursive
+
+}
+
+.summer{
+    background: radial-gradient(#ffefa7, #fffb00)
 }
