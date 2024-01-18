@@ -168,9 +168,10 @@ body{
 
 .logo {
     font-size: 35px;
-    color: #78de5f;
+    color: #ffffff;
     text-decoration: none;
     margin-left: 700;
+    font-family: 'Instrument Serif', serif;
 }
 
 .navbar a {
@@ -197,3 +198,4 @@ body{
 
     width: 100%;
 }
+
